@@ -6,6 +6,8 @@
 //
 
 #import "ViewController.h"
+#import "UITableViewCell+ReuseIdentifier.h"
+#import "UICollectionViewCell+Reuseidentifier.h"
 
 @interface ViewController ()
 
